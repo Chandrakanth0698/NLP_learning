@@ -1,0 +1,1 @@
+# This repo consists of code to understand the basics of NLP(Natural langugae processing)
